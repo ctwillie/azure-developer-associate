@@ -18,3 +18,6 @@
 ### Azure Developer Associate Learning Path
 - https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?WT.mc_id=Azure_BoM-wwl&tab=tab-learning-paths
 
+### Exam AZ-204: Developing Solutions for Microsoft Azure
+- https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/
+
