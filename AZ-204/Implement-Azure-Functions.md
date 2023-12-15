@@ -4,6 +4,12 @@
 - Learn how to create and deploy Azure Functions. Explore hosting options, bindings, and triggers.
 
 
+# Todo
+-
+-
+
+
+
 # Modules
 
 ### Explore Azure Functions
