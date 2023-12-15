@@ -4,9 +4,9 @@
 - Learn how to create and deploy Azure Functions. Explore hosting options, bindings, and triggers.
 
 
-# Todo
--
--
+# Practical Todo
+- Create a function in Azure with Python using Visual Studio Code
+- https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-decorators
 
 
 
