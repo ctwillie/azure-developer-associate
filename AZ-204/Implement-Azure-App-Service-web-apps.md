@@ -11,6 +11,9 @@
 - Deploy a Python (Django or Flask) web app with PostgreSQL in Azure
 - https://learn.microsoft.com/en-us/azure/app-service/tutorial-python-postgresql-app?tabs=django%2Cwindows&pivots=azure-portal#sample-application
 
+- Other Guides Here
+- https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=django%2Cwindows%2Cvscode-aztools%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli#next-steps
+
 
 
 # Modules
