@@ -37,3 +37,14 @@
 - https://learn.microsoft.com/en-us/training/modules/understand-app-service-deployment-slots/
 - In this module you'll learn how slot swapping operates and how to perform a swap. You'll also learn how to route traffic to different slots manually and automatically.
 
+
+
+
+# Exam Topics
+
+- Azure Container Registry
+- https://learn.microsoft.com/en-us/azure/container-registry/
+
+
+
+
