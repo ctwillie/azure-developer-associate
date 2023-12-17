@@ -20,6 +20,9 @@
 - https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?WT.mc_id=Azure_BoM-wwl&tab=tab-learning-paths
 
 
+## Examp Readiness Videos
+- https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?products=azure&terms=204
+
 ### YouTube Exam Review
 - https://www.youtube.com/watch?v=jZx8PMQjobk
 
@@ -27,14 +30,16 @@
 - https://www.examtopics.com/exams/microsoft/az-204/
 
 
-### Exam
-- https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/
-
 ### Tips
 - Watch [AZ-204 exam prep videos](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-az-204-develop-azure-compute-solutions-1-of-5/) on Learn
 - Review the [AZ-204 study guide](https://aka.ms/AZ204-StudyGuide) to help you prepare for the exam
 - Study Resources [here](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204#study-resources)
 - Demo the exam experience by visiting our [exam sandbox](https://go.microsoft.com/fwlink/?linkid=2226877)
 - Search online for exam dumps.
+
+
+### Exam
+- https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/
+
 
 
