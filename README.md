@@ -35,5 +35,6 @@
 - Review the [AZ-204 study guide](https://aka.ms/AZ204-StudyGuide) to help you prepare for the exam
 - Study Resources [here](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-204#study-resources)
 - Demo the exam experience by visiting our [exam sandbox](https://go.microsoft.com/fwlink/?linkid=2226877)
+- Search online for exam dumps.
 
 
