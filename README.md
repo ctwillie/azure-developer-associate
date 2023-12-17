@@ -19,8 +19,13 @@
 ### Azure Developer Associate Learning Path
 - https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?WT.mc_id=Azure_BoM-wwl&tab=tab-learning-paths
 
+
 ### YouTube Exam Review
 - https://www.youtube.com/watch?v=jZx8PMQjobk
+
+### Exam Topics
+- https://www.examtopics.com/exams/microsoft/az-204/
+
 
 ### Exam
 - https://learn.microsoft.com/en-us/credentials/certifications/exams/az-204/
