@@ -20,13 +20,16 @@
 - https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?WT.mc_id=Azure_BoM-wwl&tab=tab-learning-paths
 
 
-## Examp Readiness Videos
+### Skill Cert Pro
+- https://skillcertpro.com/product/developing-solutions-for-microsoft-azure-az-204-practice-exam-test/
+
+### Exam Readiness Videos
 - https://learn.microsoft.com/en-us/shows/exam-readiness-zone/?products=azure&terms=204
 
 ### YouTube Exam Review
 - https://www.youtube.com/watch?v=jZx8PMQjobk
 
-### Exam Topics
+### ExamTopics
 - https://www.examtopics.com/exams/microsoft/az-204/
 
 
