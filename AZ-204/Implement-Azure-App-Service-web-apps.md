@@ -5,6 +5,7 @@
 
 
 # Practical Todo
+
 - Deploy a Python (Django or Flask) web app to Azure App Service
 - https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli
 
@@ -44,6 +45,9 @@
 
 - Azure Container Registry
 - https://learn.microsoft.com/en-us/azure/container-registry/
+
+- Azure Container Instances
+- https://learn.microsoft.com/en-us/azure/container-instances/
 
 
 
